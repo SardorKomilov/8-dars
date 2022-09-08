@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+        background-color:rgb(253, 190, 74) ;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.zuk{
+    background-color: orange;
+    height: 150px;
+    position: absolute;
+    width: 1920px;
+    
+}
+.text1{
+    margin-left: 750px;
+    font-size: 52px;
+    font-family: 'Roboto', sans-serif;
+    margin-top: 40px;
+}
+.info{
+    margin-top: 150px;
+    background-color: rgb(253, 190, 74);
+    height: 300px;
+    position: absolute;
+    width: 1920px;
+}
+.text2{
+    margin-left: 600px;
+    margin-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.img1{
+    margin-top: -260px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+.ilon{
+    background-color: orange;
+    height: 150px;
+    position: absolute;
+    width: 1920px;
+    
+}
+.persone2{
+    background-color: rgb(253, 190, 74);    
+    width: 1920px;
+    height: 300px;
+    margin-top: 400px;
+}
+.persone1{
+    background-color: black;
+    position: relative;
+    margin-top: -700px;
+}
